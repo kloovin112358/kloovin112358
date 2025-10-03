@@ -2,7 +2,7 @@
 - 👋 I'm Kevin, a full-stack developer based out of Chicago, USA
 - I've worked at Ernst & Young (EY), Caterpillar, and Uline
 - I built [Casabrix](https://www.casabrix.com/), a multiplatform app to help you manage your apartment/home searches
-- Currently a software engineer at 🚛 [FleetPulse](https://www.fleetpulse.com/)
+- Currently a software engineer at [FleetPulse](https://www.fleetpulse.com/)
 <!--
 **kloovin112358/kloovin112358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
